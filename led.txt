@@ -1,0 +1,7 @@
+LED
+red
+blue
+white
+yellow
+green
+orange
